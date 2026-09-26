@@ -5,9 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  /* If your GitHub repo name is NOT "username.github.io" (e.g. repo name is "my-portfolio"),
-     uncomment the line below and set your repo name: */
-  // basePath: "/my-portfolio",
+  basePath: "/MyPortfolio",
 };
 
 export default nextConfig;
