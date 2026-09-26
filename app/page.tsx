@@ -87,7 +87,7 @@ export default function Home() {
     {
       role: "Junior Software Engineer",
       company: "TeleApps Private Limited",
-      period: "Mar 2025 – Sep 2025",
+      period: "Dec 2024 – Jan 2026",
       description: "Engineered Avaya Interactive Voice Response (IVR) telephony systems and DTMF routing workflows. Developed Java backend microservices using Spring Boot and optimized database query execution."
     }
   ];
